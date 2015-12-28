@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kewalkrishna.myapplication.MainActivity" >
+    <item android:id="@+id/action_vote_average"
+        android:title="Sort By Rating "
+        android:orderInCategory="100"
+         />
+    <item android:id="@+id/action_popularity"
+        android:title="Sort By Popularity"
+        android:orderInCategory="100"
+        />
+</menu>

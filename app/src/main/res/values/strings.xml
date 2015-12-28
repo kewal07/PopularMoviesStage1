@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Udacity Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="api_key"></string>
+    <string name="main_activity">Udacity Movies</string>
+    <string name="movie_details">Movie Details</string>
+
+</resources>
